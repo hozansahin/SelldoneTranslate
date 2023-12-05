@@ -1,12 +1,13 @@
 export default {
   "commons": {
-    "pay_today": "Bugün ödeme",
-    "pay_yesterday": "Dün ödeme",
+    "pay_today": "Bugünkü ödeme",
+    "pay_yesterday": "Dünkü ödeme",
     "pay_last30days": "Son 30 gün ödeme",
-    "create_a_shop": "Mağaza oluştur",
+    "create_a_shop": "Mağazanı oluştur",
     "start_free": "Ücretsiz başla",
     "featured_apps": "Öne çıkan uygulamalar",
     "more_apps": "Daha fazla uygulama"
+    "my_public_profile": "Herkese açık profil sayfam",
   },
   "numbers": {
     "infinite": "Sınırsız"
@@ -20,10 +21,10 @@ export default {
     "today": "Bugün",
     "yesterday": "Dün",
     "last_7": "Son 7 gün",
-    "last_14": "son 14 gün",
+    "last_14": "Son 14 gün",
     "last_30": "Son 30 gün",
-    "last_90": "son 90 gün",
-    "custom": "Gelenek"
+    "last_90": "Son 90 gün",
+    "custom": "Özel Tarih Aralığı"
   },
   "device_types": {
     "desktop": "masaüstü",
@@ -32,6 +33,9 @@ export default {
   },
   "create_website_action": "Web sitenizi oluşturun — Ücretsiz",
   "show_shops_action": "Mağazalarımın listesi",
+    
+// Sosyal Medya:
+    
   "Youtube": "Youtube",
   "Linkedin": "Linkedin",
   "Twitter": "heyecan",
@@ -39,10 +43,12 @@ export default {
   "Instagram": "Instagram",
   "Reddit": "Reddit",
   "Github": "Github",
+
+// ------------------ Sayfa Başlıkları -----------------
   "page_titles": {
-    "home": "satıldı | Hızlı Büyüyen Şirketler İçin İş İşletim Sistemi",
-    "login": "Giriş yapmak",
-    "register": "Kayıt olmak",
+    "home": "Selldone | Hızlı Büyüyen Şirketler İçin işletme yönetim Sistemi",
+    "login": "Giriş Yap",
+    "register": "Kayıt Olun",
     "auth_2fa": "2 faktörlü Kimlik Doğrulama 🔐",
     "academy": "Blog",
     "help": "Yardım Merkezi",
